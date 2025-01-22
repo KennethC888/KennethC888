@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -  I like chess, running, and horror books!
 -  I go to Cooper Union!
 -  I am interested in learning more EE hardware and software!
--  
+ 
 <!--
 **KennethC888/KennethC888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 How to reach me: 
